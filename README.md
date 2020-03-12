@@ -1,6 +1,7 @@
 # DenverCrime
 Analysis and Foreasting of Kaggle Denver Crime Kernel
 Documentation for My Denver Crime Forecasting
+https://www.kaggle.com/idjtech/denver-crime-forecasting
 
 I recently completed the Udemy course: Python for Time Series Analysis and Forecasting with an intense feeling of excitement. On my path to becoming a data scientist, this moment feels like a major milestone. I’ve never felt so eager to apply what I’ve learned.
 
