@@ -1,4 +1,8 @@
 # DenverCrime
+
+**Project context:** This was my first substantial independent data-science project, completed after studying Python time-series analysis. I'm preserving the original notebook and commentary because they document my learning process. The project demonstrates my ability to take a question from raw data through exploration, transformation, modeling, comparison and forecasting.
+
+**Original Project Notes.**
 Analysis and Foreasting of Kaggle Denver Crime Kernel
 Documentation for My Denver Crime Forecasting
 https://www.kaggle.com/idjtech/denver-crime-forecasting
